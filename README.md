@@ -15,7 +15,7 @@ From the data sets, 6 key business questions were created to answer significant 
 
 ## Results/ Discussion
 
-![](Average_Profit_by_Region.jpg)
+![Average_Profit_by_Region](https://github.com/Chi2166/Data-Analysis-on-Excel/assets/144334275/b2ae3c22-6091-4279-bcdb-bb6eb12f0203)
 
 ### The above snapshot shows the analysis of average profit by region in the U.S. Superstore.
 - The Western Region made the highest average profit, totaling $33.8490. This indicates a high profit in sales of products from this region.
@@ -25,7 +25,7 @@ From the data sets, 6 key business questions were created to answer significant 
 
 -- The report enumerated a clear overview highlighting regions with the highest and lowest average profits. These insights are valuable and relatable in making informed business decisions.
 
-![](Maximum_Profit_by_Segement.jpg)
+![Maximum_Profit_by_Segment](https://github.com/Chi2166/Data-Analysis-on-Excel/assets/144334275/ab36b212-54f8-48fa-ba10-bafc0bf2e448)
 
 ### The snapshot shows an analysis of Maximum profitability by Segments and the following results show the performance of various segments in the U.S. superstore. 
 - It can be seen from the analysis that the Corporate Segment made the highest profit of $8399.976 at a percentage profit of 44%.
@@ -34,7 +34,7 @@ From the data sets, 6 key business questions were created to answer significant 
   
 -- The overall analysis provides the segments with the highest and lowest maximum profit made in the U.S. superstore which can be used to make vital business decisions and make business adjustments.
 
-![](Number_of_Top_10_Customers_by_Product_Quantity.jpg)
+![Number_of_Top_10_Customer_by_Product_Quantity](https://github.com/Chi2166/Data-Analysis-on-Excel/assets/144334275/bb99ceec-007d-4245-bbb8-40a666e188a5)
 
 ### The above chart reveals the quantities of various products, focusing on the top Ten (10) Customers who bought the highest product quantity.
 -  William Brown recorded the highest product quantity purchased totaling 37 units of products.
@@ -44,7 +44,7 @@ From the data sets, 6 key business questions were created to answer significant 
   
 -- The chart provides valuable insights into product quantities, helping by focusing on which customer purchased more products. This analysis points out customers with the highest product quantity purchased.
 
-![](Top_5_Average_Sales_by_Sub-Category.jpg)
+![Top_5_Average_Sales_by_Sub-Category](https://github.com/Chi2166/Data-Analysis-on-Excel/assets/144334275/bfd0ebaa-4ae3-4394-8e5a-ae2045bcd4fd)
 
 ### The above analysis shows that the result of Average sales by sub-category in the U.S. superstores. 
 -	Copiers recorded an average sale of $2198.941618 
@@ -55,7 +55,7 @@ From the data sets, 6 key business questions were created to answer significant 
 
 -	- The result shows insights of average sales made in all sub-categories which can be used to make business decisions.
 
-	![](Top_6_State_With_Highest_Sales.jpg)
+![Top_6_States_with_Highest_Sales](https://github.com/Chi2166/Data-Analysis-on-Excel/assets/144334275/c51ca4db-439b-4c18-9da4-2d22d54421de)
 
 ### The bar chart depicts analysis for the top 6 states with the highest sales in U.S. superstores 
 -	Florida made the most significant sales of $22638.48 among the top 6 states with the highest sales.
@@ -66,14 +66,14 @@ From the data sets, 6 key business questions were created to answer significant 
  
 - -	The insight analyzed the 6 top states with the highest sales which can be used for informed decision making in a business organization.
 
-![](Total_Discount_by_Category.jpg)
+![Total_Discount_by_Category](https://github.com/Chi2166/Data-Analysis-on-Excel/assets/144334275/1218d395-3395-49b0-8cd4-81b4898e2a4c)
 
 ### The pie chart illustrates the analysis of the total discount given to each category.
 -	Technology was given the lowest discount of $244.4 at 16%.
 -	Furniture was given a discount of $368.89 at 23%.
 -	Office supply was given the highest discount of $947.8 at 61%. 
 
--	- The insight provides a total discount given to each category which can be used to understand how the market strategy works  
+--  The insight provides a total discount given to each category which can be used to understand how the market strategy works
 
 ## Conclusion
 The analysis conducted using the U.S. superstores datasets has provided valuable insights using crucial business questions to determine the extent of the market.  The analysis ranges from calculating Average profit across different regions, analyzing maximum profit for each segment, highlighting the number of top 10 customers who bought more products by quantity, top 5 average sales by sub-category and top 6 states with the highest sales, and finally determining total discount given to each category. This analysis enhances profitability in most aspects of business within U.S. superstores.
